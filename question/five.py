@@ -7,8 +7,8 @@ NumberOfDesk = student1//2
 Number_OfDesk = student2//2
 Number_Of_Desk = student3//2
 print(f"{NumberOfDesk} desks are needed for a first class.")
- print("{} desks are needed for a second class.".format(Number_OfDesk))
- print("%s desks are needed for a third class." %(Number_Of_Desk))
+print("{} desks are needed for a second class.".format(Number_OfDesk))
+print("%s desks are needed for a third class." %(Number_Of_Desk))
 
 reamaining_desk1 = student1 % 2
 reamaining_desk2 = student2 % 2
