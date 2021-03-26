@@ -13,8 +13,4 @@
 10. Write a Python program to convert seconds to day, hour, minutes and seconds.
 
 
-<h2> Differentiating anything and something.</h2>
 
-Anything | Something
--------- | ---------
-Anything includes all. | Something inlcuded only some of the parts.
