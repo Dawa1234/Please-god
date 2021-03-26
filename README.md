@@ -12,5 +12,5 @@ Create new branch --> Merger to default origin (master / main)
 9. Write a python program to find sum of the first n positive integers.  sum = (n*(n+1))/2
 10. Write a Python program to convert seconds to day, hour, minutes and seconds.
 
-
+![Image of Yaktocat]
 https://octodex.github.com/images/yaktocat.png
